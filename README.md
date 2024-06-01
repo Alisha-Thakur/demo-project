@@ -1,4 +1,5 @@
 # demo-project
+
 This is my first Git Repository
 <br />
-Author - Alisha Thakur
+Author - Alisha Thakur(Software Developer)
